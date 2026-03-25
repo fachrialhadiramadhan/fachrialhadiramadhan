@@ -5,7 +5,7 @@
 
 ## 🧰 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,nodejs,mongodb,postman,py,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,nodejs,mongodb,express,postman,py,git,github,vscode" />
 </p>
 
 ---
